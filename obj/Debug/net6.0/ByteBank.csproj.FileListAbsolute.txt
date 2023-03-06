@@ -1,0 +1,15 @@
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Users\evictoria\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
